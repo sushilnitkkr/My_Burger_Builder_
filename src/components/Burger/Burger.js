@@ -15,6 +15,7 @@ if(transformedIngredients.length === 0){
     transformedIngredients =<p>Please Start adding Ingredients!</p>
 }
     console.log(transformedIngredients);
+    console.log(event);
 
 return(
     <div className ={classes.Burger}>
