@@ -1,3 +1,7 @@
+# THE BURGER BUILDER
+A Burger Builder Application with different ingredients built using React Js, Redux, and firebase technologies. The Application has proper authentication routing the pages and also follows the responsive pages so applicable for mobiles.
+The Application built for learning purposes as the same follow the online course.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
